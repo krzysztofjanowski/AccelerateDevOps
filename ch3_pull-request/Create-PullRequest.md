@@ -6,14 +6,13 @@ In Chapter 3 - _Teamwork and Collaborative Development_ we learn how to collabo
 
 2. Delete the following line:
 
-
 3. Add one or two lines here with a random text:
 
-   random added text
+   random added text still more 
 
 4. Modify the following line by removing the letters that do not belong:
 
-   __---> The cow jumpedd over the mooon__
+   __---> The cow jumpedd over the mooon.
 
 5. Commit your changes into a new _branch_:
 
